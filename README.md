@@ -1,12 +1,12 @@
-# Performance Testing with Gatling
+# Scalability Testing with Gatling
 
-A performance testing project using **Gatling** to evaluate the scalability and stability of the target API.
+A Scalability testing project using **Gatling** to evaluate the scalability and stability of the target API.
 
 ---
 
 ## 📚 General Information
 
-- **Project Name**: Performance Testing with Gatling
+- **Project Name**: Scalability Testing with Gatling
 - **Tools**:
   - Gatling (3.13.1)
   - Maven
@@ -22,7 +22,7 @@ A performance testing project using **Gatling** to evaluate the scalability and 
 | **Field**    | **Value**                  |
 | ------------ | -------------------------- |
 | `groupId`    | Unique project group ID    |
-| `artifactId` | Performance Testing Module |
+| `artifactId` | Scalability Testing Module |
 | `version`    | 1.0                        |
 
 ### Dependencies
@@ -82,7 +82,7 @@ A performance testing project using **Gatling** to evaluate the scalability and 
 
 - All scenarios return expected status codes (`200`, `201`, `400`).
 
-### Performance Stability
+### Scalability Stability
 
 - API handles simulated load without significant errors.
 
@@ -97,7 +97,7 @@ A performance testing project using **Gatling** to evaluate the scalability and 
 1. **Response Time**: Average and maximum response time per endpoint.
 2. **Throughput**: Number of successful requests per second.
 3. **Error Rate**: Ratio of failed to total requests.
-4. **Stability Metrics**: Evaluate performance under high load.
+4. **Stability Metrics**: Evaluate Scalability under high load.
 
 ---
 
