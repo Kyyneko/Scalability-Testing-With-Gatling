@@ -113,6 +113,13 @@ A Scalability testing project using **Gatling** to evaluate the scalability and 
 
 ---
 
+## 📄 Documentation Files
+
+- [Penjelasan File Konfigurasi](https://github.com/Kyyneko/Scalability-Testing-With-Gatling/blob/main/Konfigurasi%20File.docx)
+- [Dokumentasi Teknis Testing](https://github.com/Kyyneko/Scalability-Testing-With-Gatling/blob/main/Dokumentasi%20Teknis%20Testing.docx)
+
+---
+
 ## 📝 License
 
 This project is licensed under the terms of the [MIT License](LICENSE.md).
